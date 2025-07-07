@@ -22,3 +22,6 @@ See `requirements.txt`.
 - `marks`: Student marks (%)  
 - `attendance`: Attendance percentage  
 - `logins`: Number of portal logins  
+
+## Output
+See `Output Folder`
